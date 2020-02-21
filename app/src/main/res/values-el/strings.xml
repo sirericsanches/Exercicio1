@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country">Ελλάδα</string>
+    <string name="food">γυροσκόπια</string>
+    <string name="flag_description">ελληνική σημαία</string>
+    <string name="food_description">γυροσκόπια</string>
+</resources>

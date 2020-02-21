@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country">Deutschland</string>
+    <string name="food">Strudel</string>
+    <string name="flag_description">deutschland flagge</string>
+    <string name="food_description">Strudel</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country">Italia</string>
+    <string name="food">Pasta</string>
+    <string name="flag_description">bandiera dell'Italia</string>
+    <string name="food_description">Pasta</string>
+</resources>

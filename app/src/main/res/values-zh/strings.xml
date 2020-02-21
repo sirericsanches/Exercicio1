@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country">中國</string>
+    <string name="food">炒麵</string>
+    <string name="flag_description">中國國旗</string>
+    <string name="food_description">炒麵</string>
+</resources>

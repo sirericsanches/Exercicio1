@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio1</string>
+    <string name="country">USA</string>
+    <string name="food">Hamburger</string>
+    <string name="flag_description">USA Flag</string>
+    <string name="food_description">Hamburger</string>
+</resources>
